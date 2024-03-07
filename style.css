@@ -44,7 +44,7 @@ body {
   padding: 10px;
   border-radius: 10px;
   margin-left: auto;
-  text-align: center; /* Centrer le texte */
+  text-align: center;
 }
 
 .bot-message {
